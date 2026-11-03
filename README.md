@@ -44,7 +44,6 @@ The custom PCB was designed in KiCad. If you are assembling the board yourself, 
 | **Resistors (0603)**       | 1kΩ (x1), 2.2kΩ (x2), 5.1kΩ (x2), 10kΩ (x2), 470Ω (x2), 22Ω (x2) | 11 Total |
 | **Capacitors (0603/0805)** | 100nF (x6), 10uF (x1), 1uF (x1), 22pF (x2)                       | 10 Total |
 
-> **Note:** The RGB lighting utilizes WS2812B LEDs (NeoPixels), which are connected in series.
 
 ---
 
